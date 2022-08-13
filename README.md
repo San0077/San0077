@@ -1,6 +1,6 @@
 <img align = "right" alt ="nothing" width = "400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 
 - 🔭 I’m currently working on **small projects**
