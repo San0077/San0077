@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/santhosh balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhosh balaji" height="70" width="70" /></a>
-<a href="https://instagram.com/santhosh_mechani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santhosh_mechani" height="70" width="70" /></a>
+
 <a href="https://www.linkedin.com/in/santhosh-sai-806b90219/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh_mechani" height="70" width="70" /></a>
 </p>
 
