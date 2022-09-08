@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 📫 My personal portfolio (https://63060f7afa98bb0008e71a58--sparkling-sorbet-14bb78.netlify.app/)
+- 📫 My personal portfolio (https://sparkling-sorbet-14bb78.netlify.app/)
 
 - 🔭 I’m currently working on **small projects**
 
